@@ -26,3 +26,7 @@ This script runs your autograders for different questions for all students.
    - `--marks`: Marks will be put in this file
    - `--extract_dir`: The directory where all the folders have been extracted. This should be the same argument that you supplied to `grade.py`.
    - `--order`: This should be one of {`student`, `question`}. If it is `student`, then it will grade all questions of each student and then move to next. Else, It will grade a particular question for all students and then move to next question.
+
+## credits
+- Aryan
+- Yash Shah
