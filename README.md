@@ -28,5 +28,5 @@ This script runs your autograders for different questions for all students.
    - `--order`: This should be one of {`student`, `question`}. If it is `student`, then it will grade all questions of each student and then move to next. Else, It will grade a particular question for all students and then move to next question.
 
 ## credits
-- Aryan
-- Yash Shah
+- [Aryan](https://github.com/aryanbdps9)
+- [Yash Shah](https://github.com/ys1998)
